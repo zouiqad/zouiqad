@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zouiqad.zouiqad" />
 
 <h1 align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Righetous&weight=500&size=36&duration=4000&pause=1000&color=9E9EFF&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Wassil!" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Righetous&&center=true&vCenter=true&weight=500&size=36&duration=4000&pause=1000&color=9E9EFF&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Wassil!" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
