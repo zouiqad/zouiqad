@@ -42,13 +42,15 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My contributions 🐍</h2>
-  <br>
+  
+<h2>🐍 My contributions 🐍</h2>
+<br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zouiqad/zouiqad/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zouiqad/zouiqad/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zouiqad/zouiqad/output/github-contribution-grid-snake.svg" />
   </picture>
+  
   
   <br/><br/><br/>
 </div>
