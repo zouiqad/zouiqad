@@ -4,7 +4,7 @@
     <img src="http://readme-typing-svg.herokuapp.com?font=Righetous&&center=true&vCenter=true&weight=500&size=36&duration=4000&pause=1000&color=9E9EFF&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Wassil!" />
 </h1>
 
-<h3 align="center">A passionate fullstack developper</h3>
+<h3 align="center">A passionate developper</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **an AWS powered web app**
  
- 🌱 I’m currently learning **Docker, Kubernetes, AWS**
+ 🌱 I’m currently learning **Vulkan**
  
  </div>
  
