@@ -9,9 +9,7 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **an AWS powered web app**
- 
+  
  🌱 I’m currently learning **Vulkan**
  
  </div>
